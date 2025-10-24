@@ -4,29 +4,29 @@
     "binaries": [
       {
         "kind": "file",
-        "url": "https://github.com/mvdan/gofumpt/releases/download/v0.7.0/gofumpt_v0.7.0_linux_arm64",
-        "sha256": "00c18c88ef50437629626ba20d677f4648684cb280952814cdd887677d42cbd3",
+        "url": "https://github.com/mvdan/gofumpt/releases/download/v0.9.2/gofumpt_v0.9.2_linux_arm64",
+        "sha256": "5acaa5a554050f55fc81ef02a8b0d14ab6b3c058a84513885286dc52d3451645",
         "os": "linux",
         "cpu": "arm64"
       },
       {
         "kind": "file",
-        "url": "https://github.com/mvdan/gofumpt/releases/download/v0.7.0/gofumpt_v0.7.0_linux_amd64",
-        "sha256": "6ff459c1dcae3b0b00844c1a5a4a5b0f547237d8a4f3624aaea8d424aeef24c6",
+        "url": "https://github.com/mvdan/gofumpt/releases/download/v0.9.2/gofumpt_v0.9.2_linux_amd64",
+        "sha256": "72cf61b12fef91eab6df6db4a4284f30616b5ead330112e28a1fa1cb15e57339",
         "os": "linux",
         "cpu": "x86_64"
       },
       {
         "kind": "file",
-        "url": "https://github.com/mvdan/gofumpt/releases/download/v0.7.0/gofumpt_v0.7.0_darwin_arm64",
-        "sha256": "08f23114760a090b090706d92b8c52b9875b9eb352d76c77aa354d6aa20b045a",
+        "url": "https://github.com/mvdan/gofumpt/releases/download/v0.9.2/gofumpt_v0.9.2_darwin_arm64",
+        "sha256": "c241fb742599a6cb0563d7377f59def65d451b23dd718dbc6ddf4ab5e695e8f1",
         "os": "macos",
         "cpu": "arm64"
       },
       {
         "kind": "file",
-        "url": "https://github.com/mvdan/gofumpt/releases/download/v0.7.0/gofumpt_v0.7.0_darwin_amd64",
-        "sha256": "b7d05e092da45c5ec96344ab635b1d6547c3e27c840ba39bc76989934efd7ce3",
+        "url": "https://github.com/mvdan/gofumpt/releases/download/v0.9.2/gofumpt_v0.9.2_darwin_amd64",
+        "sha256": "4172b912ec514038605f334fef9ed7b3f12ca3e40024cb0a622eab3073a55e57",
         "os": "macos",
         "cpu": "x86_64"
       }
@@ -72,29 +72,29 @@
     "binaries": [
       {
         "kind": "file",
-        "url": "https://github.com/mvdan/sh/releases/download/v3.10.0/shfmt_v3.10.0_linux_arm64",
-        "sha256": "9d23013d56640e228732fd2a04a9ede0ab46bc2d764bf22a4a35fb1b14d707a8",
+        "url": "https://github.com/mvdan/sh/releases/download/v3.12.0/shfmt_v3.12.0_linux_arm64",
+        "sha256": "5f3fe3fa6a9f766e6a182ba79a94bef8afedafc57db0b1ad32b0f67fae971ba4",
         "os": "linux",
         "cpu": "arm64"
       },
       {
         "kind": "file",
-        "url": "https://github.com/mvdan/sh/releases/download/v3.10.0/shfmt_v3.10.0_linux_amd64",
-        "sha256": "1f57a384d59542f8fac5f503da1f3ea44242f46dff969569e80b524d64b71dbc",
+        "url": "https://github.com/mvdan/sh/releases/download/v3.12.0/shfmt_v3.12.0_linux_amd64",
+        "sha256": "d9fbb2a9c33d13f47e7618cf362a914d029d02a6df124064fff04fd688a745ea",
         "os": "linux",
         "cpu": "x86_64"
       },
       {
         "kind": "file",
-        "url": "https://github.com/mvdan/sh/releases/download/v3.10.0/shfmt_v3.10.0_darwin_arm64",
-        "sha256": "86030533a823c0a7cd92dee0f74094e5b901c3277b43def6337d5e19e56fe553",
+        "url": "https://github.com/mvdan/sh/releases/download/v3.12.0/shfmt_v3.12.0_darwin_arm64",
+        "sha256": "d903802e0ce3ecbc82b98512f55ba370b0d37a93f3f78de394f5b657052b33dd",
         "os": "macos",
         "cpu": "arm64"
       },
       {
         "kind": "file",
-        "url": "https://github.com/mvdan/sh/releases/download/v3.10.0/shfmt_v3.10.0_darwin_amd64",
-        "sha256": "ef8d970b3f695a7e8e7d40730eedd2d935ab9599f78a365f319c515bc59d4c83",
+        "url": "https://github.com/mvdan/sh/releases/download/v3.12.0/shfmt_v3.12.0_darwin_amd64",
+        "sha256": "c31548693de6584e6164b7ed5fbb7b4a083f2d937ca94b4e0ddf59aa461a85e4",
         "os": "macos",
         "cpu": "x86_64"
       }
@@ -140,33 +140,33 @@
     "binaries": [
       {
         "kind": "archive",
-        "url": "https://github.com/google/yamlfmt/releases/download/v0.16.0/yamlfmt_0.16.0_Linux_arm64.tar.gz",
+        "url": "https://github.com/google/yamlfmt/releases/download/v0.20.0/yamlfmt_0.20.0_Linux_arm64.tar.gz",
         "file": "yamlfmt",
-        "sha256": "208b9c0c4e67472e5205d3f826205b2f20da59a180b548cff02621401355bead",
+        "sha256": "26e2461caf96286c7958701acebce52089ce109645c20b5675496385c09f120a",
         "os": "linux",
         "cpu": "arm64"
       },
       {
         "kind": "archive",
-        "url": "https://github.com/google/yamlfmt/releases/download/v0.16.0/yamlfmt_0.16.0_Linux_x86_64.tar.gz",
+        "url": "https://github.com/google/yamlfmt/releases/download/v0.20.0/yamlfmt_0.20.0_Linux_x86_64.tar.gz",
         "file": "yamlfmt",
-        "sha256": "7819fa7c7e994d239009d30cbd58897149d7e7dd5847aedf7abd19c332298033",
+        "sha256": "b652b39aa91a3b54347f948a06dc95e422b245f7f068adc898acfafa91376e17",
         "os": "linux",
         "cpu": "x86_64"
       },
       {
         "kind": "archive",
-        "url": "https://github.com/google/yamlfmt/releases/download/v0.16.0/yamlfmt_0.16.0_Darwin_arm64.tar.gz",
+        "url": "https://github.com/google/yamlfmt/releases/download/v0.20.0/yamlfmt_0.20.0_Darwin_arm64.tar.gz",
         "file": "yamlfmt",
-        "sha256": "fcffb2efdfdd27fb5bb658a8156972fda14f0864f336c181705b98eee5f6c139",
+        "sha256": "356fbf3c385f8e1211b4d8a40f73acc45fc44080a19f4b4181695a308b61998e",
         "os": "macos",
         "cpu": "arm64"
       },
       {
         "kind": "archive",
-        "url": "https://github.com/google/yamlfmt/releases/download/v0.16.0/yamlfmt_0.16.0_Darwin_x86_64.tar.gz",
+        "url": "https://github.com/google/yamlfmt/releases/download/v0.20.0/yamlfmt_0.20.0_Darwin_x86_64.tar.gz",
         "file": "yamlfmt",
-        "sha256": "740d23864fffcf1865a9e0a221840baae6b5f40b8a20ad2d5e79c1b9de9eaec7",
+        "sha256": "e6ece4924f026c87f65171a9681970b296e21d9cada48da0efddb676f51205eb",
         "os": "macos",
         "cpu": "x86_64"
       }
